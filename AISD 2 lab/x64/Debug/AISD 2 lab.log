@@ -1,0 +1,50 @@
+﻿  AISD 2 lab.cpp
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(20,26): warning C4244: инициализация: преобразование "float" в "short", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(22,28): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(25,24): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(29,26): warning C4244: инициализация: преобразование "float" в "short", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(31,20): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(34,20): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(100,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(135,87): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(135,87): warning C4244:         with
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(135,87): warning C4244:         [
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(135,87): warning C4244:             _Ty=short
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(135,87): warning C4244:         ]
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(136,124): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(136,124): warning C4244:         with
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(136,124): warning C4244:         [
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(136,124): warning C4244:             _Ty=short
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(136,124): warning C4244:         ]
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(137,123): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(137,123): warning C4244:         with
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(137,123): warning C4244:         [
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(137,123): warning C4244:             _Ty=short
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(137,123): warning C4244:         ]
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(157,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(158,96): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(159,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(168,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(188,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(222,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(231,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(232,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(233,14): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(263,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(263,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(267,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(267,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(294,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(295,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(296,14): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(330,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(330,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(362,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(383,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(385,9): warning C4101: buffer_last_elem: неиспользованная локальная переменная
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(402,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(403,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(415,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(435,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\AISD 2 lab\AISD 2 lab.cpp(464,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  AISD 2 lab.vcxproj -> C:\Users\sa_bo\source\repos\AISD 2 lab\x64\Debug\AISD 2 lab.exe
